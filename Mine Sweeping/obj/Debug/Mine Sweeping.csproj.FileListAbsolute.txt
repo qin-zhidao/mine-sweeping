@@ -1,0 +1,11 @@
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\bin\Debug\Mine Sweeping.exe.config
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\bin\Debug\Mine Sweeping.exe
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\bin\Debug\Mine Sweeping.pdb
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine Sweeping.csprojAssemblyReference.cache
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine_Sweeping.Properties.Resources.resources
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine Sweeping.csproj.GenerateResource.cache
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine Sweeping.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine Sweeping.exe
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine Sweeping.pdb
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine_Sweeping.Main_Form.resources
+D:\Documents\GitHub\mine-sweeping\Mine Sweeping\obj\Debug\Mine_Sweeping.Leaderboard.resources
