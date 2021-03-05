@@ -14,6 +14,8 @@ namespace Mine_Sweeping {
             InitializeComponent();
         }
 
+        static uint level = 0;
+
         /// <summary>
         /// 点击菜单栏扫雷排行榜时
         /// </summary>
